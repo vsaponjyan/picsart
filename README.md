@@ -1,3 +1,3 @@
 # picsart
 
-## dymanic alloction, custom string.h
+## dymanic alloction for  custom string.h
